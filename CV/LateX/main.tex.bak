@@ -158,29 +158,31 @@
 
 \cvskill{JavaScript} {+1 Ans} {1} \\[-7pt]
 
+
+\cvskill{React JS \& React Native} {+8 Mois} {0.8} \\[-7pt]
+
 \cvskill{Dart \& Flutter} {+5 Mois} {0.5} \\[-7pt]
-
-
-\cvskill{ReactJS \& ReactNative} {+4 Mois} {0.4} \\[-7pt]
 
 \cvskill{Java} {+2 Mois} {0.2} \\[-7pt]
 
 
 \cvsection{HOBBIES}
 
-\cvskill{BasketBall \& Musculation} {Sport} {1} \\[-5pt]
+\cvskill{BasketBall \& Musculation} {Sport} {1} \\[-7pt]
 
-\cvskill{Livre Scientifique \& Réportage} {Loisir} {1} \\[-5pt]
+\cvskill{Livre Scientifique \& Réportage} {Loisir} {1} \\[-7pt]
 
 
 \cvsection{CONTACTS}
 	
-\icontext{MapMarker}{12}{Antananarive\\ 3D Ters S Antanimena}{black}\\[6pt]
+\icontext{MapMarker}{12}{III F25 Ter Antananarive\\ Antohomadinika Antaniavo}{black}\\[6pt]
 \icontext{MobilePhone}{12}{+261 38 72 657 05 }{black}\\[6pt]
 \iconemail{Envelope}{12}{raharison.tsidiany@esti.mg}{raharison.tsidiany@esti.mg}{black}\\[6pt]
+\verb| |\faLinkedinSquare \quad Raharison Muriel TSIDIANY \\[6pt]
+\verb| |\faTwitter \quad @MurielTsidany \\[6pt]
 \verb| |\faGithubSquare \quad devsuccess.github.io \\[6pt]
 
-\cvqrcode{0.5}
+\cvqrcode{0.43}
 
 \end{leftcolumn}
 \begin{rightcolumn}
@@ -195,9 +197,9 @@
 \vspace{-12pt}
 
 
-\cvsection{PROFILE}
+\cvsection{PROFIL}
 
-\cvtext{Je suis un jeune développeur informatique qui étudie actuellement à l'\' Ecole Supérieur des Technologies d'Information en licence 2. J'ai eu mon Bacc série D en 2020 à LPEF Sirama-Ambilobe.\\
+\cvtext{Je suis un jeune développeur informatique qui étudie actuellement à l'\' Ecole Supérieur des Technologies d'Information (ESTI) en licence 2 dans le branche IDEV. J'ai eu mon Bacc série D en 2020 à LPEF Sirama-Ambilobe.\\
 
 Je me considère comme une personne sérieuse, plus d'une années d'expérience dans le cadre pratique et théorique de la programmation informatique, qui a pour passion le développement
 de logiciels et application informatique que ce soit sur une plateforme web, mobile, lourde ou léger.\\
@@ -206,25 +208,25 @@ de logiciels et application informatique que ce soit sur une plateforme web, mob
 \cvsection{EXP\' ERIENCES}
 
 \cvevent
-	{Sept 2019 - 2021}
-	{Président de l'Association Alpha LPEF}
-	{A propos}
-	{Alpha LPEF est une association à but non lucratif qui rassemble l'ensemble des étudiants du Lycée Privé d'Expression Français (LPEF), notre activité se traduit par des différentes activités sportives et de compétition interclasse, et des différentes activités extra-scolaires telle que des aides au pauvre\dots, j'était en charge de : }
-	{\cvlist{
-		\item Promouvoir la dynamique de groupe.
-		\item Responsable premier de l'association vis-à-vis de l'école.
-		\item Recherche des différentes donateurs\dots
-	}}
-	
-
-\cvevent
 	{Juin 2021 - Now}
-	{Président et Fondateur de l'Association DevSuccess}
+	{Président et Fondateur de l'Association ITDevSuccess}
 	{Une Association de jeune passioner de l'informatique}
 	{Cette association regroupe une poigner de jeune passionner de l'informatique qui est sois étudiant dans des universités ou d’entreprise concernant l'IT :}
 	{\cvlist{
 		\item \textbf{Université :} ESTI, ESMIA, ITU, ENI, UPH. 
 		\item \textbf{Entreprise :} Tech AIDMadagascar
+	}}
+
+
+\cvevent
+	{Sept 2019 - 2021}
+	{Président de l'Association Alpha LPEF}
+	{A propos}
+	{Alpha LPEF est une association à but non lucratif qui rassemble l'ensemble des étudiants du Lycée Privé d'Expression Français (LPEF), notre activité se traduit par des différentes activités sportives et de compétition interclasse, et des différentes activités extra-scolaires telle que des aides au pauvre\dots, J'était en charge de : }
+	{\cvlist{
+		\item Promouvoir la dynamique de groupe.
+		\item Premier responsable de l'association vis-à-vis de l'école.
+		\item Responsable de recherche des différentes donateurs\dots
 	}}
 	
 
@@ -235,13 +237,13 @@ de logiciels et application informatique que ce soit sur une plateforme web, mob
 {\cvlist{
 		\item Les Téchnologies Web : 
 			\cvlist{
-				\item \textbf{FrontEnd :} ReactJS   
-				\item \textbf{BackEnd :} JavaScript, NodeJS
-				\item \textbf{DataBase :} MongoDb, MySQL		
+				\item \textbf{FrontEnd :} HTML5, CSS3, BootStrap, JavaScript, ReactJS   
+				\item \textbf{BackEnd :} JavaScript, NodeJS, Express
+				\item \textbf{DataBase :} MongoDb, MySQL, SQLite		
 			}
-		\item Le Téchnologie Scientifique \textbf{Python} et ses Framework (Matplotbil et PyQT5).
-		\item Les Technologie \textbf{Mobile} : Flutter, ReactNative, Java\\
-		\item
+		\item Le langague \textbf{Python} et ses Framework et librairies (Matplotbil, numpy et PyQt5).
+		\item Les Téchnologies \textbf{Mobile} : React Native, Flutter, Java\\
+		
 	}}
 
 \mbox{}
